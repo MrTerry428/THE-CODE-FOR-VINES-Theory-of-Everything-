@@ -2,7 +2,7 @@
 Theory/Formula/Design © 2025 by Terry Vines is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 VINES Theory of Everything: A 5D Framework for Unifying Fundamental Physics
 Author: Terry Vines, Independent Researcher (madscientistunion@gmail.com)
-Submitted to: Monthly Notices of the Royal Astronomical Society
+Submitted to: 
 Submission Date: August 18, 2025
 Dear Editor and Reviewers,
 Thank you for your thoughtful consideration of my manuscript and for the opportunity to address your comments. Below, I provide detailed clarifications on the significant claims of the VINES Theory of Everything (ToE), including the reduction of the string landscape to 3 vacua, resolution of the Hubble tension, and prediction of Kaluza-Klein (KK) gravitons at 1.6 TeV. I also address potential concerns regarding computational validations using CLASS, microOMEGAs, and GRChombo, the Casimir energy calculation, and the experimental roadmap for 2025–2035. All referenced codes and data are publicly available at https://github.com/MrTerry428/MADSCIENTISTUNION for transparency and reproducibility.
